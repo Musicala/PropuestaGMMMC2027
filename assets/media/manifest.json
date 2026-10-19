@@ -1,0 +1,132 @@
+{
+  "proyecto": "Musicala × FSA · GMMMC 2027",
+  "alcance": "Recursos seleccionados para la propuesta según instrucciones de la usuaria. Originales y borradores privados excluidos.",
+  "recursos": [
+    {
+      "archivo": "assets/media/automusicala_mi_experiencia_ruta.png",
+      "tipo": "captura",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "0fb252ad7ded591b460e5fb7b08842f42c7a2d644ce16aceca65ee2706e0474f"
+    },
+    {
+      "archivo": "assets/media/automusicala_mi_rutina.png",
+      "tipo": "captura",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "f689bbcd42b61f7bc78be685f5c5f553f8f3f1e1ec4f2f78416d892ac9a6a477"
+    },
+    {
+      "archivo": "assets/media/bitacora_porrismo_2026.png",
+      "tipo": "captura",
+      "tratamiento": "Nombre de docente oculto de forma irreversible; objetivos y desarrollo real conservados.",
+      "sha256": "ec931bb76fcce11d7b7d9a2ffe76925c08b38d20a887838f60ded21266dd1ff2"
+    },
+    {
+      "archivo": "assets/media/inicio_hub_docentes.png",
+      "tipo": "captura",
+      "tratamiento": "Nombre de usuario oculto de forma irreversible en dos zonas; resto de la captura real conservado.",
+      "sha256": "343227e93e42807e132a0bb3be6ebab676344160ebc07a1af376db144e99eb14"
+    },
+    {
+      "archivo": "assets/media/informe_consolidado_asistencia.png",
+      "tipo": "captura",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "05e65702d57950f4dbcacc06c8eda3bd19586784db696bcc168eefeb4efb5a72"
+    },
+    {
+      "archivo": "assets/media/clase_danza_con_docente.png",
+      "tipo": "fotografia",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "1e866ed4e01cab84c4578a8162c5728ac40f8187892c778a2be817dd01f34fe1"
+    },
+    {
+      "archivo": "assets/media/collage_porrismo_presentaciones.png",
+      "tipo": "fotografia",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "42759339d54e52646943cdb170c29e481dabd2ab7188df1e36f43d5a11838824"
+    },
+    {
+      "archivo": "assets/media/gmmmc_grupo_porrismo_patio.png",
+      "tipo": "fotografia",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "11ac8029d28478b5e240615b7d690f2e6e48e2ed293c67a3049348efc24d065b"
+    },
+    {
+      "archivo": "assets/media/grupo_artes_plasticas_obras.png",
+      "tipo": "fotografia",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "3aac1266d5a00e90ad127f1d8ac94709107247db206c0c1c819fd510973767e6"
+    },
+    {
+      "archivo": "assets/media/Danzas_Musikids.pdf",
+      "tipo": "material_pedagogico",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "7bc743e837c27ef6a182ff90dc4f09ac39e7b0e493ef09fe6427de56c377c82c"
+    },
+    {
+      "archivo": "assets/media/Piano_Experiencia_II.pdf",
+      "tipo": "material_pedagogico",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "61369c58be112dfeeb809beaa8450319f504f41f5e94e0cdaee1b7a529747a40"
+    },
+    {
+      "archivo": "assets/media/Piano_Objetivos.pdf",
+      "tipo": "material_pedagogico",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "a9681ba805640b5a74ff8e66f09b008b64dae1403dace4e2f04e934addf7b55c"
+    },
+    {
+      "archivo": "assets/media/Checklists_FSA_2027.pdf",
+      "tipo": "material_pedagogico",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "4ae69f9c579e3d9c3be4a48f54d5afe2dedd6c562b9a8838eeaa29e0563605c9"
+    },
+    {
+      "archivo": "assets/media/checklists_pagina_01.png",
+      "tipo": "material_pedagogico",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "16802d730e1683d385e913dd5f17a4d9d7be533ce10a83518e55a876777a3dc3"
+    },
+    {
+      "archivo": "assets/media/danzas_musikids_pagina_01.png",
+      "tipo": "material_pedagogico",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "3370f266632806e1eba5fb8cbdb43313a6a62a3eff6b828c3121fc538a64336b"
+    },
+    {
+      "archivo": "assets/media/danzas_musikids_pagina_02.png",
+      "tipo": "material_pedagogico",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "73aeb7af2db857568b21bf85778559901268c6fd83199707b980b55201b2c56d"
+    },
+    {
+      "archivo": "assets/media/piano_experiencia_ii_pagina_01.png",
+      "tipo": "material_pedagogico",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "1b45f355e33435923cafdf8b90a72eefc15763b8f25eec7451bbdda905283353"
+    },
+    {
+      "archivo": "assets/media/piano_experiencia_ii_pagina_02.png",
+      "tipo": "material_pedagogico",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "c82678ccf323300c8d249ed9388a31b209a3826ab387d59e99bb437f3d3f4f0c"
+    },
+    {
+      "archivo": "assets/media/piano_experiencia_ii_pagina_03.png",
+      "tipo": "material_pedagogico",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "24d6e6b2246466bc510eb1b69b32eb82574305131a8aff5a17ee3e5e6d207fba"
+    },
+    {
+      "archivo": "assets/media/piano_objetivos_pagina_01.png",
+      "tipo": "material_pedagogico",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "5e1ec1cb915e0147fb08af307aed3d37ae94d95ac3343f93888f2029b3b3c32c"
+    },
+    {
+      "archivo": "assets/media/piano_objetivos_pagina_02.png",
+      "tipo": "material_pedagogico",
+      "tratamiento": "Copia del recurso institucional proporcionado.",
+      "sha256": "047b802297e1fb44b82e468ac3643d695e8617ebdabdb6764e389a67eb00066f"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "musicala-gmmmc-2027",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Propuesta institucional de formación artística Musicala × FSA para GMMMC 2027",
+  "scripts": {
+    "test": "node tests/smoke.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "jspdf": "4.2.1",
+  "html2canvas": "1.4.1",
+  "licencias": "MIT; copias locales para generación PDF sin conexión"
+}
